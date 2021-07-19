@@ -1,2 +1,1 @@
-
-web: gunicorn dashboard_crm.wsgi --log-file -
+web: gunicorn crm1.wsgi
